@@ -18,7 +18,7 @@ report.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/ltcsuite/ltcutil/coinset
+$ go get -u github.com/atticlab/ltcutil/coinset
 ```
 
 ## Usage

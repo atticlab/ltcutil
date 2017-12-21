@@ -7,9 +7,9 @@ package ltcutil_test
 import (
 	"testing"
 
-	"github.com/ltcsuite/ltcd/btcec"
-	"github.com/ltcsuite/ltcd/chaincfg"
-	. "github.com/ltcsuite/ltcutil"
+	"github.com/atticlab/ltcd/btcec"
+	"github.com/atticlab/ltcd/chaincfg"
+	. "github.com/atticlab/ltcutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

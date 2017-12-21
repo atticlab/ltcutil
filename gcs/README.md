@@ -15,7 +15,7 @@ A comprehensive suite of tests is provided to ensure proper functionality.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/ltcsuite/ltcutil/gcs
+$ go get -u github.com/atticlab/ltcutil/gcs
 ```
 
 ## License
